@@ -3,5 +3,7 @@ fineweb
 Llama-3.2-1b-Gather
 runs
 saved_HuberLoss
+tb_logs
+checkpoints
 *.duckdb
 *.duckdb.wal
